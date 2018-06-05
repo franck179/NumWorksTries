@@ -7,7 +7,7 @@ addons:
     packages:
     - gcc-arm-embedded
     - libfltk1.3-dev
-	- fluid
+    - fluid
 
 matrix:
   include:
